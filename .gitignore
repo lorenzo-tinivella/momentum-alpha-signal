@@ -1,0 +1,19 @@
+# Data files
+data/*.csv
+data/*.parquet
+data/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environments
+.env
+venv/
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
