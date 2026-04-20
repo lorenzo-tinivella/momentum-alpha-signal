@@ -5,10 +5,15 @@ first documented by Jegadeesh & Titman (1993).
 
 ## Viewing Notebooks
 
-GitHub's notebook renderer may have display issues with long notebooks.
-For best rendering, view the notebooks on nbviewer:
+## Viewing Notebooks
 
-👉 [View notebooks on nbviewer](https://nbviewer.org/github/TUO-USERNAME/momentum-alpha-signal/tree/main/notebooks/)
+| Notebook | Colab |
+|---|---|
+| 01 - Data Collection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorenzo-tinivella/momentum-alpha-signal/blob/main/notebooks/01_data_collection.ipynb) |
+| 02 - Signal Construction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorenzo-tinivella/momentum-alpha-signal/blob/main/notebooks/02_signal_construction.ipynb) |
+| 03 - IC Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorenzo-tinivella/momentum-alpha-signal/blob/main/notebooks/03_ic_analysis.ipynb) |
+| 04 - Backtesting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorenzo-tinivella/momentum-alpha-signal/blob/main/notebooks/04_backtesting.ipynb) |
+| 05 - Risk Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lorenzo-tinivella/momentum-alpha-signal/blob/main/notebooks/05_risk_analysis.ipynb) |
 
 ## Objective
 Build, test, and analyze a cross-sectional momentum signal on S&P 500 equities,
