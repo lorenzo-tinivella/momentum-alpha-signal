@@ -30,3 +30,7 @@ backtesting, and risk decomposition.
 
 ## Stack
 Python · pandas · numpy · yfinance · matplotlib · scipy
+
+## Research Memo
+
+The full research findings are documented in the [Research Memo](report/research_memo.md).
